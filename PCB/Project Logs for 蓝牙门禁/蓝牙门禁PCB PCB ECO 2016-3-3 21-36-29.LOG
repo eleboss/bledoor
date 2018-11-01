@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VCCBAT Pin=P6-1
+Removed Pin From Net: NetName=VCCBAT Pin=P7-1
+Removed Pin From Net: NetName=VCCBAT Pin=U1-46
+Change Component Comment : Designator=R1 Old Comment=1K New Comment=500
+Added Component: Designator=P2(DC-005(5.5MM))
+Added Component: Designator=P4(HDR1X3)
+Added Component: Designator=P8(DC-DC升压模块)
+Added Pin To Net: NetName=VCC Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=VCCD Pin=P4-1
+Added Pin To Net: NetName=VCCBAT Pin=P4-2
+Added Pin To Net: NetName=VCC3.3 Pin=P7-1
+Added Pin To Net: NetName=VCCBAT Pin=P8-1
+Added Pin To Net: NetName=GND Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P8-4
+Added Pin To Net: NetName=VCC5 Pin=P6-1
+Added Pin To Net: NetName=VCC5 Pin=P8-3
+Added Pin To Net: NetName=VCC5 Pin=U1-46
+Added Net: Name=VCC5
+Added Member To Class: ClassName=蓝牙门禁 Member=Component P2 12V电源
+Added Member To Class: ClassName=蓝牙门禁 Member=Component P4 电源开关
+Added Member To Class: ClassName=蓝牙门禁 Member=Component P8 升压模块
